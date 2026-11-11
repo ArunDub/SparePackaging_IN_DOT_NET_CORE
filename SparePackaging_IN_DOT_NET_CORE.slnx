@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SparePackaging.API/SparePackaging.API.csproj" />
+  <Project Path="SparePackaging.Application/SparePackaging.Application.csproj" />
+  <Project Path="SparePackaging.Domain/SparePackaging.Domain.csproj" />
+  <Project Path="SparePackaging.Infrastructure/SparePackaging.Infrastructure.csproj" />
+</Solution>
